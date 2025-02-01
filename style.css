@@ -1,27 +1,3 @@
-/* #body{
-    margin:0;
-}
-#clock-bg{
-    background-color:maroon;
-    background-image:url("https://interactive-examples.mdn.mozilla.net/media/examples/firefox-logo.svg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    display:flex;
-    justify-content: center;
-    align-items:center;
-    height:100vh;
-}
-#digi-clock{
-    color:white;
-    font-size:32px;
-    font-family: consolas;
-    background-color: rgb(227, 224, 224);
-    backdrop-filter:blur(500px);
-    border-radius: 10px;
-} */
-
 body{
     margin:0;
 }
